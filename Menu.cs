@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace VikingHacksRRJJ;
 public class Game
 {
-
+    public int Cash { private set; get; }
 
 
 }
