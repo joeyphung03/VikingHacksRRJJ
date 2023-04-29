@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
+//yes we are using top level statements
 Console.WriteLine("Penis!");
