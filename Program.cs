@@ -1,6 +1,7 @@
 ﻿
 //yes we are using top level statements
-using VikingHacksRRJJ;
+global using VikingHacksRRJJ;
+global using System.IO;
 
 Console.WriteLine("Penis!");
 
